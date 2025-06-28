@@ -1,0 +1,601 @@
+date,player,grade,price
+2025-06-28,Wemby,PSA 10,687.77
+2025-06-28,Wemby,PSA 9,489.07
+2025-06-28,Wemby,PSA 8,723.87
+2025-06-28,Wemby,Raw,562.44
+2025-06-28,LeBron James,PSA 10,941.85
+2025-06-28,LeBron James,PSA 9,261.54
+2025-06-28,LeBron James,PSA 8,792.01
+2025-06-28,LeBron James,Raw,123.65
+2025-06-28,Shohei Ohtani,PSA 10,336.0
+2025-06-28,Shohei Ohtani,PSA 9,458.59
+2025-06-28,Shohei Ohtani,PSA 8,224.56
+2025-06-28,Shohei Ohtani,Raw,991.88
+2025-06-28,Connor Bedard,PSA 10,560.05
+2025-06-28,Connor Bedard,PSA 9,83.27
+2025-06-28,Connor Bedard,PSA 8,857.79
+2025-06-28,Connor Bedard,Raw,196.08
+2025-06-28,Patrick Mahomes,PSA 10,614.96
+2025-06-28,Patrick Mahomes,PSA 9,278.8
+2025-06-28,Patrick Mahomes,PSA 8,730.97
+2025-06-28,Patrick Mahomes,Raw,225.02
+2025-06-27,Wemby,PSA 10,558.44
+2025-06-27,Wemby,PSA 9,805.15
+2025-06-27,Wemby,PSA 8,850.6
+2025-06-27,Wemby,Raw,713.65
+2025-06-27,LeBron James,PSA 10,746.1
+2025-06-27,LeBron James,PSA 9,635.4
+2025-06-27,LeBron James,PSA 8,455.25
+2025-06-27,LeBron James,Raw,335.06
+2025-06-27,Shohei Ohtani,PSA 10,303.03
+2025-06-27,Shohei Ohtani,PSA 9,958.38
+2025-06-27,Shohei Ohtani,PSA 8,121.61
+2025-06-27,Shohei Ohtani,Raw,243.29
+2025-06-27,Connor Bedard,PSA 10,269.01
+2025-06-27,Connor Bedard,PSA 9,83.08
+2025-06-27,Connor Bedard,PSA 8,92.98
+2025-06-27,Connor Bedard,Raw,33.07
+2025-06-27,Patrick Mahomes,PSA 10,874.1
+2025-06-27,Patrick Mahomes,PSA 9,91.07
+2025-06-27,Patrick Mahomes,PSA 8,834.58
+2025-06-27,Patrick Mahomes,Raw,215.93
+2025-06-26,Wemby,PSA 10,301.0
+2025-06-26,Wemby,PSA 9,921.0
+2025-06-26,Wemby,PSA 8,857.95
+2025-06-26,Wemby,Raw,599.33
+2025-06-26,LeBron James,PSA 10,895.95
+2025-06-26,LeBron James,PSA 9,320.87
+2025-06-26,LeBron James,PSA 8,805.7
+2025-06-26,LeBron James,Raw,528.82
+2025-06-26,Shohei Ohtani,PSA 10,717.72
+2025-06-26,Shohei Ohtani,PSA 9,854.89
+2025-06-26,Shohei Ohtani,PSA 8,418.84
+2025-06-26,Shohei Ohtani,Raw,563.56
+2025-06-26,Connor Bedard,PSA 10,537.88
+2025-06-26,Connor Bedard,PSA 9,180.77
+2025-06-26,Connor Bedard,PSA 8,700.75
+2025-06-26,Connor Bedard,Raw,107.23
+2025-06-26,Patrick Mahomes,PSA 10,632.48
+2025-06-26,Patrick Mahomes,PSA 9,57.06
+2025-06-26,Patrick Mahomes,PSA 8,61.23
+2025-06-26,Patrick Mahomes,Raw,142.29
+2025-06-25,Wemby,PSA 10,130.71
+2025-06-25,Wemby,PSA 9,861.91
+2025-06-25,Wemby,PSA 8,536.48
+2025-06-25,Wemby,Raw,788.06
+2025-06-25,LeBron James,PSA 10,276.43
+2025-06-25,LeBron James,PSA 9,800.22
+2025-06-25,LeBron James,PSA 8,358.54
+2025-06-25,LeBron James,Raw,108.27
+2025-06-25,Shohei Ohtani,PSA 10,407.0
+2025-06-25,Shohei Ohtani,PSA 9,169.24
+2025-06-25,Shohei Ohtani,PSA 8,580.04
+2025-06-25,Shohei Ohtani,Raw,240.84
+2025-06-25,Connor Bedard,PSA 10,361.85
+2025-06-25,Connor Bedard,PSA 9,233.64
+2025-06-25,Connor Bedard,PSA 8,124.14
+2025-06-25,Connor Bedard,Raw,743.52
+2025-06-25,Patrick Mahomes,PSA 10,793.15
+2025-06-25,Patrick Mahomes,PSA 9,414.22
+2025-06-25,Patrick Mahomes,PSA 8,120.83
+2025-06-25,Patrick Mahomes,Raw,134.13
+2025-06-24,Wemby,PSA 10,108.89
+2025-06-24,Wemby,PSA 9,519.41
+2025-06-24,Wemby,PSA 8,862.72
+2025-06-24,Wemby,Raw,435.79
+2025-06-24,LeBron James,PSA 10,752.24
+2025-06-24,LeBron James,PSA 9,195.15
+2025-06-24,LeBron James,PSA 8,392.38
+2025-06-24,LeBron James,Raw,966.75
+2025-06-24,Shohei Ohtani,PSA 10,123.7
+2025-06-24,Shohei Ohtani,PSA 9,550.52
+2025-06-24,Shohei Ohtani,PSA 8,68.4
+2025-06-24,Shohei Ohtani,Raw,411.58
+2025-06-24,Connor Bedard,PSA 10,748.49
+2025-06-24,Connor Bedard,PSA 9,888.21
+2025-06-24,Connor Bedard,PSA 8,152.72
+2025-06-24,Connor Bedard,Raw,852.04
+2025-06-24,Patrick Mahomes,PSA 10,841.22
+2025-06-24,Patrick Mahomes,PSA 9,990.49
+2025-06-24,Patrick Mahomes,PSA 8,689.42
+2025-06-24,Patrick Mahomes,Raw,596.41
+2025-06-23,Wemby,PSA 10,286.24
+2025-06-23,Wemby,PSA 9,191.56
+2025-06-23,Wemby,PSA 8,961.39
+2025-06-23,Wemby,Raw,36.89
+2025-06-23,LeBron James,PSA 10,971.09
+2025-06-23,LeBron James,PSA 9,210.02
+2025-06-23,LeBron James,PSA 8,321.55
+2025-06-23,LeBron James,Raw,936.61
+2025-06-23,Shohei Ohtani,PSA 10,686.18
+2025-06-23,Shohei Ohtani,PSA 9,766.35
+2025-06-23,Shohei Ohtani,PSA 8,324.36
+2025-06-23,Shohei Ohtani,Raw,399.56
+2025-06-23,Connor Bedard,PSA 10,83.07
+2025-06-23,Connor Bedard,PSA 9,158.43
+2025-06-23,Connor Bedard,PSA 8,216.02
+2025-06-23,Connor Bedard,Raw,830.04
+2025-06-23,Patrick Mahomes,PSA 10,562.45
+2025-06-23,Patrick Mahomes,PSA 9,288.76
+2025-06-23,Patrick Mahomes,PSA 8,615.89
+2025-06-23,Patrick Mahomes,Raw,761.11
+2025-06-22,Wemby,PSA 10,310.17
+2025-06-22,Wemby,PSA 9,720.78
+2025-06-22,Wemby,PSA 8,88.39
+2025-06-22,Wemby,Raw,985.24
+2025-06-22,LeBron James,PSA 10,693.58
+2025-06-22,LeBron James,PSA 9,658.69
+2025-06-22,LeBron James,PSA 8,932.2
+2025-06-22,LeBron James,Raw,300.14
+2025-06-22,Shohei Ohtani,PSA 10,23.2
+2025-06-22,Shohei Ohtani,PSA 9,499.76
+2025-06-22,Shohei Ohtani,PSA 8,805.39
+2025-06-22,Shohei Ohtani,Raw,521.89
+2025-06-22,Connor Bedard,PSA 10,777.14
+2025-06-22,Connor Bedard,PSA 9,256.08
+2025-06-22,Connor Bedard,PSA 8,67.32
+2025-06-22,Connor Bedard,Raw,502.43
+2025-06-22,Patrick Mahomes,PSA 10,727.44
+2025-06-22,Patrick Mahomes,PSA 9,23.57
+2025-06-22,Patrick Mahomes,PSA 8,922.26
+2025-06-22,Patrick Mahomes,Raw,573.34
+2025-06-21,Wemby,PSA 10,627.97
+2025-06-21,Wemby,PSA 9,182.56
+2025-06-21,Wemby,PSA 8,235.72
+2025-06-21,Wemby,Raw,63.61
+2025-06-21,LeBron James,PSA 10,791.39
+2025-06-21,LeBron James,PSA 9,247.67
+2025-06-21,LeBron James,PSA 8,323.2
+2025-06-21,LeBron James,Raw,320.09
+2025-06-21,Shohei Ohtani,PSA 10,350.29
+2025-06-21,Shohei Ohtani,PSA 9,824.57
+2025-06-21,Shohei Ohtani,PSA 8,342.07
+2025-06-21,Shohei Ohtani,Raw,761.34
+2025-06-21,Connor Bedard,PSA 10,955.37
+2025-06-21,Connor Bedard,PSA 9,164.45
+2025-06-21,Connor Bedard,PSA 8,671.0
+2025-06-21,Connor Bedard,Raw,751.29
+2025-06-21,Patrick Mahomes,PSA 10,809.02
+2025-06-21,Patrick Mahomes,PSA 9,935.17
+2025-06-21,Patrick Mahomes,PSA 8,313.39
+2025-06-21,Patrick Mahomes,Raw,118.05
+2025-06-20,Wemby,PSA 10,163.9
+2025-06-20,Wemby,PSA 9,639.01
+2025-06-20,Wemby,PSA 8,636.21
+2025-06-20,Wemby,Raw,684.92
+2025-06-20,LeBron James,PSA 10,659.2
+2025-06-20,LeBron James,PSA 9,344.66
+2025-06-20,LeBron James,PSA 8,282.77
+2025-06-20,LeBron James,Raw,528.71
+2025-06-20,Shohei Ohtani,PSA 10,134.89
+2025-06-20,Shohei Ohtani,PSA 9,575.3
+2025-06-20,Shohei Ohtani,PSA 8,191.69
+2025-06-20,Shohei Ohtani,Raw,636.93
+2025-06-20,Connor Bedard,PSA 10,552.75
+2025-06-20,Connor Bedard,PSA 9,191.28
+2025-06-20,Connor Bedard,PSA 8,501.11
+2025-06-20,Connor Bedard,Raw,748.82
+2025-06-20,Patrick Mahomes,PSA 10,743.05
+2025-06-20,Patrick Mahomes,PSA 9,614.57
+2025-06-20,Patrick Mahomes,PSA 8,357.42
+2025-06-20,Patrick Mahomes,Raw,983.69
+2025-06-19,Wemby,PSA 10,315.43
+2025-06-19,Wemby,PSA 9,545.07
+2025-06-19,Wemby,PSA 8,815.29
+2025-06-19,Wemby,Raw,545.11
+2025-06-19,LeBron James,PSA 10,499.85
+2025-06-19,LeBron James,PSA 9,397.3
+2025-06-19,LeBron James,PSA 8,552.76
+2025-06-19,LeBron James,Raw,295.54
+2025-06-19,Shohei Ohtani,PSA 10,538.46
+2025-06-19,Shohei Ohtani,PSA 9,933.36
+2025-06-19,Shohei Ohtani,PSA 8,369.18
+2025-06-19,Shohei Ohtani,Raw,885.14
+2025-06-19,Connor Bedard,PSA 10,886.23
+2025-06-19,Connor Bedard,PSA 9,83.58
+2025-06-19,Connor Bedard,PSA 8,894.53
+2025-06-19,Connor Bedard,Raw,650.38
+2025-06-19,Patrick Mahomes,PSA 10,267.91
+2025-06-19,Patrick Mahomes,PSA 9,30.99
+2025-06-19,Patrick Mahomes,PSA 8,942.69
+2025-06-19,Patrick Mahomes,Raw,132.18
+2025-06-18,Wemby,PSA 10,850.94
+2025-06-18,Wemby,PSA 9,820.77
+2025-06-18,Wemby,PSA 8,401.51
+2025-06-18,Wemby,Raw,221.02
+2025-06-18,LeBron James,PSA 10,329.09
+2025-06-18,LeBron James,PSA 9,147.43
+2025-06-18,LeBron James,PSA 8,497.89
+2025-06-18,LeBron James,Raw,927.53
+2025-06-18,Shohei Ohtani,PSA 10,655.45
+2025-06-18,Shohei Ohtani,PSA 9,152.45
+2025-06-18,Shohei Ohtani,PSA 8,677.21
+2025-06-18,Shohei Ohtani,Raw,657.91
+2025-06-18,Connor Bedard,PSA 10,31.9
+2025-06-18,Connor Bedard,PSA 9,118.84
+2025-06-18,Connor Bedard,PSA 8,941.61
+2025-06-18,Connor Bedard,Raw,412.71
+2025-06-18,Patrick Mahomes,PSA 10,798.16
+2025-06-18,Patrick Mahomes,PSA 9,677.04
+2025-06-18,Patrick Mahomes,PSA 8,833.16
+2025-06-18,Patrick Mahomes,Raw,824.03
+2025-06-17,Wemby,PSA 10,652.44
+2025-06-17,Wemby,PSA 9,523.0
+2025-06-17,Wemby,PSA 8,346.79
+2025-06-17,Wemby,Raw,775.03
+2025-06-17,LeBron James,PSA 10,750.78
+2025-06-17,LeBron James,PSA 9,146.35
+2025-06-17,LeBron James,PSA 8,365.94
+2025-06-17,LeBron James,Raw,463.67
+2025-06-17,Shohei Ohtani,PSA 10,42.53
+2025-06-17,Shohei Ohtani,PSA 9,815.73
+2025-06-17,Shohei Ohtani,PSA 8,563.38
+2025-06-17,Shohei Ohtani,Raw,54.73
+2025-06-17,Connor Bedard,PSA 10,28.08
+2025-06-17,Connor Bedard,PSA 9,91.36
+2025-06-17,Connor Bedard,PSA 8,620.38
+2025-06-17,Connor Bedard,Raw,544.01
+2025-06-17,Patrick Mahomes,PSA 10,903.79
+2025-06-17,Patrick Mahomes,PSA 9,793.09
+2025-06-17,Patrick Mahomes,PSA 8,702.3
+2025-06-17,Patrick Mahomes,Raw,56.07
+2025-06-16,Wemby,PSA 10,501.12
+2025-06-16,Wemby,PSA 9,63.83
+2025-06-16,Wemby,PSA 8,77.82
+2025-06-16,Wemby,Raw,392.73
+2025-06-16,LeBron James,PSA 10,57.22
+2025-06-16,LeBron James,PSA 9,140.51
+2025-06-16,LeBron James,PSA 8,280.86
+2025-06-16,LeBron James,Raw,30.66
+2025-06-16,Shohei Ohtani,PSA 10,247.7
+2025-06-16,Shohei Ohtani,PSA 9,378.77
+2025-06-16,Shohei Ohtani,PSA 8,488.64
+2025-06-16,Shohei Ohtani,Raw,137.85
+2025-06-16,Connor Bedard,PSA 10,959.23
+2025-06-16,Connor Bedard,PSA 9,997.98
+2025-06-16,Connor Bedard,PSA 8,415.77
+2025-06-16,Connor Bedard,Raw,80.28
+2025-06-16,Patrick Mahomes,PSA 10,345.37
+2025-06-16,Patrick Mahomes,PSA 9,785.0
+2025-06-16,Patrick Mahomes,PSA 8,37.12
+2025-06-16,Patrick Mahomes,Raw,276.99
+2025-06-15,Wemby,PSA 10,510.56
+2025-06-15,Wemby,PSA 9,844.57
+2025-06-15,Wemby,PSA 8,914.54
+2025-06-15,Wemby,Raw,200.11
+2025-06-15,LeBron James,PSA 10,462.1
+2025-06-15,LeBron James,PSA 9,504.84
+2025-06-15,LeBron James,PSA 8,175.35
+2025-06-15,LeBron James,Raw,923.24
+2025-06-15,Shohei Ohtani,PSA 10,31.6
+2025-06-15,Shohei Ohtani,PSA 9,356.9
+2025-06-15,Shohei Ohtani,PSA 8,53.07
+2025-06-15,Shohei Ohtani,Raw,934.86
+2025-06-15,Connor Bedard,PSA 10,539.2
+2025-06-15,Connor Bedard,PSA 9,293.08
+2025-06-15,Connor Bedard,PSA 8,166.24
+2025-06-15,Connor Bedard,Raw,975.63
+2025-06-15,Patrick Mahomes,PSA 10,302.72
+2025-06-15,Patrick Mahomes,PSA 9,100.37
+2025-06-15,Patrick Mahomes,PSA 8,407.25
+2025-06-15,Patrick Mahomes,Raw,177.79
+2025-06-14,Wemby,PSA 10,802.98
+2025-06-14,Wemby,PSA 9,318.05
+2025-06-14,Wemby,PSA 8,979.23
+2025-06-14,Wemby,Raw,422.58
+2025-06-14,LeBron James,PSA 10,531.74
+2025-06-14,LeBron James,PSA 9,947.39
+2025-06-14,LeBron James,PSA 8,687.62
+2025-06-14,LeBron James,Raw,664.37
+2025-06-14,Shohei Ohtani,PSA 10,627.21
+2025-06-14,Shohei Ohtani,PSA 9,356.75
+2025-06-14,Shohei Ohtani,PSA 8,304.33
+2025-06-14,Shohei Ohtani,Raw,165.55
+2025-06-14,Connor Bedard,PSA 10,934.41
+2025-06-14,Connor Bedard,PSA 9,663.69
+2025-06-14,Connor Bedard,PSA 8,555.38
+2025-06-14,Connor Bedard,Raw,547.77
+2025-06-14,Patrick Mahomes,PSA 10,865.7
+2025-06-14,Patrick Mahomes,PSA 9,127.26
+2025-06-14,Patrick Mahomes,PSA 8,577.83
+2025-06-14,Patrick Mahomes,Raw,505.2
+2025-06-13,Wemby,PSA 10,191.31
+2025-06-13,Wemby,PSA 9,685.05
+2025-06-13,Wemby,PSA 8,812.47
+2025-06-13,Wemby,Raw,852.03
+2025-06-13,LeBron James,PSA 10,606.77
+2025-06-13,LeBron James,PSA 9,197.09
+2025-06-13,LeBron James,PSA 8,621.8
+2025-06-13,LeBron James,Raw,233.8
+2025-06-13,Shohei Ohtani,PSA 10,114.57
+2025-06-13,Shohei Ohtani,PSA 9,913.66
+2025-06-13,Shohei Ohtani,PSA 8,586.31
+2025-06-13,Shohei Ohtani,Raw,534.77
+2025-06-13,Connor Bedard,PSA 10,789.57
+2025-06-13,Connor Bedard,PSA 9,941.89
+2025-06-13,Connor Bedard,PSA 8,102.52
+2025-06-13,Connor Bedard,Raw,334.97
+2025-06-13,Patrick Mahomes,PSA 10,545.95
+2025-06-13,Patrick Mahomes,PSA 9,264.74
+2025-06-13,Patrick Mahomes,PSA 8,224.89
+2025-06-13,Patrick Mahomes,Raw,614.18
+2025-06-12,Wemby,PSA 10,260.44
+2025-06-12,Wemby,PSA 9,292.22
+2025-06-12,Wemby,PSA 8,224.38
+2025-06-12,Wemby,Raw,597.2
+2025-06-12,LeBron James,PSA 10,987.54
+2025-06-12,LeBron James,PSA 9,470.25
+2025-06-12,LeBron James,PSA 8,200.3
+2025-06-12,LeBron James,Raw,366.03
+2025-06-12,Shohei Ohtani,PSA 10,988.81
+2025-06-12,Shohei Ohtani,PSA 9,915.96
+2025-06-12,Shohei Ohtani,PSA 8,490.72
+2025-06-12,Shohei Ohtani,Raw,404.74
+2025-06-12,Connor Bedard,PSA 10,885.54
+2025-06-12,Connor Bedard,PSA 9,342.71
+2025-06-12,Connor Bedard,PSA 8,611.81
+2025-06-12,Connor Bedard,Raw,590.36
+2025-06-12,Patrick Mahomes,PSA 10,931.47
+2025-06-12,Patrick Mahomes,PSA 9,720.08
+2025-06-12,Patrick Mahomes,PSA 8,432.79
+2025-06-12,Patrick Mahomes,Raw,766.62
+2025-06-11,Wemby,PSA 10,677.82
+2025-06-11,Wemby,PSA 9,551.92
+2025-06-11,Wemby,PSA 8,830.91
+2025-06-11,Wemby,Raw,749.35
+2025-06-11,LeBron James,PSA 10,851.48
+2025-06-11,LeBron James,PSA 9,480.21
+2025-06-11,LeBron James,PSA 8,492.2
+2025-06-11,LeBron James,Raw,805.53
+2025-06-11,Shohei Ohtani,PSA 10,771.64
+2025-06-11,Shohei Ohtani,PSA 9,212.08
+2025-06-11,Shohei Ohtani,PSA 8,403.78
+2025-06-11,Shohei Ohtani,Raw,500.08
+2025-06-11,Connor Bedard,PSA 10,70.77
+2025-06-11,Connor Bedard,PSA 9,472.93
+2025-06-11,Connor Bedard,PSA 8,751.56
+2025-06-11,Connor Bedard,Raw,470.15
+2025-06-11,Patrick Mahomes,PSA 10,965.28
+2025-06-11,Patrick Mahomes,PSA 9,609.0
+2025-06-11,Patrick Mahomes,PSA 8,961.44
+2025-06-11,Patrick Mahomes,Raw,688.09
+2025-06-10,Wemby,PSA 10,182.21
+2025-06-10,Wemby,PSA 9,722.22
+2025-06-10,Wemby,PSA 8,377.69
+2025-06-10,Wemby,Raw,846.87
+2025-06-10,LeBron James,PSA 10,459.81
+2025-06-10,LeBron James,PSA 9,784.04
+2025-06-10,LeBron James,PSA 8,482.71
+2025-06-10,LeBron James,Raw,693.58
+2025-06-10,Shohei Ohtani,PSA 10,550.06
+2025-06-10,Shohei Ohtani,PSA 9,670.09
+2025-06-10,Shohei Ohtani,PSA 8,730.85
+2025-06-10,Shohei Ohtani,Raw,190.51
+2025-06-10,Connor Bedard,PSA 10,376.53
+2025-06-10,Connor Bedard,PSA 9,985.19
+2025-06-10,Connor Bedard,PSA 8,630.08
+2025-06-10,Connor Bedard,Raw,207.84
+2025-06-10,Patrick Mahomes,PSA 10,21.42
+2025-06-10,Patrick Mahomes,PSA 9,152.08
+2025-06-10,Patrick Mahomes,PSA 8,800.64
+2025-06-10,Patrick Mahomes,Raw,187.79
+2025-06-09,Wemby,PSA 10,452.18
+2025-06-09,Wemby,PSA 9,663.79
+2025-06-09,Wemby,PSA 8,534.23
+2025-06-09,Wemby,Raw,287.63
+2025-06-09,LeBron James,PSA 10,784.62
+2025-06-09,LeBron James,PSA 9,518.35
+2025-06-09,LeBron James,PSA 8,483.93
+2025-06-09,LeBron James,Raw,749.33
+2025-06-09,Shohei Ohtani,PSA 10,760.72
+2025-06-09,Shohei Ohtani,PSA 9,95.2
+2025-06-09,Shohei Ohtani,PSA 8,291.37
+2025-06-09,Shohei Ohtani,Raw,565.0
+2025-06-09,Connor Bedard,PSA 10,223.67
+2025-06-09,Connor Bedard,PSA 9,657.86
+2025-06-09,Connor Bedard,PSA 8,108.42
+2025-06-09,Connor Bedard,Raw,542.93
+2025-06-09,Patrick Mahomes,PSA 10,902.31
+2025-06-09,Patrick Mahomes,PSA 9,756.02
+2025-06-09,Patrick Mahomes,PSA 8,463.28
+2025-06-09,Patrick Mahomes,Raw,354.47
+2025-06-08,Wemby,PSA 10,855.96
+2025-06-08,Wemby,PSA 9,349.95
+2025-06-08,Wemby,PSA 8,332.41
+2025-06-08,Wemby,Raw,340.19
+2025-06-08,LeBron James,PSA 10,495.3
+2025-06-08,LeBron James,PSA 9,513.66
+2025-06-08,LeBron James,PSA 8,136.02
+2025-06-08,LeBron James,Raw,522.75
+2025-06-08,Shohei Ohtani,PSA 10,788.32
+2025-06-08,Shohei Ohtani,PSA 9,242.67
+2025-06-08,Shohei Ohtani,PSA 8,191.81
+2025-06-08,Shohei Ohtani,Raw,394.52
+2025-06-08,Connor Bedard,PSA 10,226.07
+2025-06-08,Connor Bedard,PSA 9,425.06
+2025-06-08,Connor Bedard,PSA 8,76.83
+2025-06-08,Connor Bedard,Raw,739.45
+2025-06-08,Patrick Mahomes,PSA 10,68.03
+2025-06-08,Patrick Mahomes,PSA 9,359.64
+2025-06-08,Patrick Mahomes,PSA 8,304.54
+2025-06-08,Patrick Mahomes,Raw,66.21
+2025-06-07,Wemby,PSA 10,267.51
+2025-06-07,Wemby,PSA 9,217.97
+2025-06-07,Wemby,PSA 8,497.62
+2025-06-07,Wemby,Raw,450.09
+2025-06-07,LeBron James,PSA 10,581.06
+2025-06-07,LeBron James,PSA 9,288.36
+2025-06-07,LeBron James,PSA 8,697.85
+2025-06-07,LeBron James,Raw,428.08
+2025-06-07,Shohei Ohtani,PSA 10,620.88
+2025-06-07,Shohei Ohtani,PSA 9,560.53
+2025-06-07,Shohei Ohtani,PSA 8,221.0
+2025-06-07,Shohei Ohtani,Raw,229.04
+2025-06-07,Connor Bedard,PSA 10,315.24
+2025-06-07,Connor Bedard,PSA 9,95.65
+2025-06-07,Connor Bedard,PSA 8,887.08
+2025-06-07,Connor Bedard,Raw,211.77
+2025-06-07,Patrick Mahomes,PSA 10,225.32
+2025-06-07,Patrick Mahomes,PSA 9,557.45
+2025-06-07,Patrick Mahomes,PSA 8,893.14
+2025-06-07,Patrick Mahomes,Raw,524.92
+2025-06-06,Wemby,PSA 10,999.83
+2025-06-06,Wemby,PSA 9,723.48
+2025-06-06,Wemby,PSA 8,896.37
+2025-06-06,Wemby,Raw,335.19
+2025-06-06,LeBron James,PSA 10,592.9
+2025-06-06,LeBron James,PSA 9,187.54
+2025-06-06,LeBron James,PSA 8,781.61
+2025-06-06,LeBron James,Raw,330.19
+2025-06-06,Shohei Ohtani,PSA 10,338.73
+2025-06-06,Shohei Ohtani,PSA 9,569.57
+2025-06-06,Shohei Ohtani,PSA 8,542.2
+2025-06-06,Shohei Ohtani,Raw,608.41
+2025-06-06,Connor Bedard,PSA 10,994.1
+2025-06-06,Connor Bedard,PSA 9,816.37
+2025-06-06,Connor Bedard,PSA 8,233.95
+2025-06-06,Connor Bedard,Raw,170.42
+2025-06-06,Patrick Mahomes,PSA 10,811.4
+2025-06-06,Patrick Mahomes,PSA 9,949.77
+2025-06-06,Patrick Mahomes,PSA 8,108.35
+2025-06-06,Patrick Mahomes,Raw,418.79
+2025-06-05,Wemby,PSA 10,221.55
+2025-06-05,Wemby,PSA 9,282.58
+2025-06-05,Wemby,PSA 8,338.39
+2025-06-05,Wemby,Raw,723.82
+2025-06-05,LeBron James,PSA 10,489.82
+2025-06-05,LeBron James,PSA 9,412.77
+2025-06-05,LeBron James,PSA 8,927.04
+2025-06-05,LeBron James,Raw,485.21
+2025-06-05,Shohei Ohtani,PSA 10,203.5
+2025-06-05,Shohei Ohtani,PSA 9,182.65
+2025-06-05,Shohei Ohtani,PSA 8,255.38
+2025-06-05,Shohei Ohtani,Raw,724.75
+2025-06-05,Connor Bedard,PSA 10,184.67
+2025-06-05,Connor Bedard,PSA 9,240.59
+2025-06-05,Connor Bedard,PSA 8,896.89
+2025-06-05,Connor Bedard,Raw,852.94
+2025-06-05,Patrick Mahomes,PSA 10,777.32
+2025-06-05,Patrick Mahomes,PSA 9,400.55
+2025-06-05,Patrick Mahomes,PSA 8,120.64
+2025-06-05,Patrick Mahomes,Raw,825.82
+2025-06-04,Wemby,PSA 10,367.12
+2025-06-04,Wemby,PSA 9,809.36
+2025-06-04,Wemby,PSA 8,549.34
+2025-06-04,Wemby,Raw,50.39
+2025-06-04,LeBron James,PSA 10,356.72
+2025-06-04,LeBron James,PSA 9,434.57
+2025-06-04,LeBron James,PSA 8,236.84
+2025-06-04,LeBron James,Raw,938.32
+2025-06-04,Shohei Ohtani,PSA 10,812.96
+2025-06-04,Shohei Ohtani,PSA 9,657.12
+2025-06-04,Shohei Ohtani,PSA 8,169.07
+2025-06-04,Shohei Ohtani,Raw,51.0
+2025-06-04,Connor Bedard,PSA 10,595.14
+2025-06-04,Connor Bedard,PSA 9,711.7
+2025-06-04,Connor Bedard,PSA 8,335.06
+2025-06-04,Connor Bedard,Raw,994.02
+2025-06-04,Patrick Mahomes,PSA 10,107.75
+2025-06-04,Patrick Mahomes,PSA 9,397.08
+2025-06-04,Patrick Mahomes,PSA 8,880.18
+2025-06-04,Patrick Mahomes,Raw,144.39
+2025-06-03,Wemby,PSA 10,49.89
+2025-06-03,Wemby,PSA 9,896.42
+2025-06-03,Wemby,PSA 8,892.78
+2025-06-03,Wemby,Raw,525.42
+2025-06-03,LeBron James,PSA 10,205.09
+2025-06-03,LeBron James,PSA 9,87.0
+2025-06-03,LeBron James,PSA 8,200.38
+2025-06-03,LeBron James,Raw,780.23
+2025-06-03,Shohei Ohtani,PSA 10,334.73
+2025-06-03,Shohei Ohtani,PSA 9,36.29
+2025-06-03,Shohei Ohtani,PSA 8,573.9
+2025-06-03,Shohei Ohtani,Raw,996.56
+2025-06-03,Connor Bedard,PSA 10,892.83
+2025-06-03,Connor Bedard,PSA 9,133.54
+2025-06-03,Connor Bedard,PSA 8,263.94
+2025-06-03,Connor Bedard,Raw,733.73
+2025-06-03,Patrick Mahomes,PSA 10,548.52
+2025-06-03,Patrick Mahomes,PSA 9,220.89
+2025-06-03,Patrick Mahomes,PSA 8,188.32
+2025-06-03,Patrick Mahomes,Raw,950.35
+2025-06-02,Wemby,PSA 10,727.47
+2025-06-02,Wemby,PSA 9,160.47
+2025-06-02,Wemby,PSA 8,239.22
+2025-06-02,Wemby,Raw,474.13
+2025-06-02,LeBron James,PSA 10,705.13
+2025-06-02,LeBron James,PSA 9,551.15
+2025-06-02,LeBron James,PSA 8,158.81
+2025-06-02,LeBron James,Raw,358.3
+2025-06-02,Shohei Ohtani,PSA 10,911.6
+2025-06-02,Shohei Ohtani,PSA 9,263.41
+2025-06-02,Shohei Ohtani,PSA 8,127.78
+2025-06-02,Shohei Ohtani,Raw,819.68
+2025-06-02,Connor Bedard,PSA 10,204.49
+2025-06-02,Connor Bedard,PSA 9,440.18
+2025-06-02,Connor Bedard,PSA 8,816.12
+2025-06-02,Connor Bedard,Raw,467.87
+2025-06-02,Patrick Mahomes,PSA 10,484.17
+2025-06-02,Patrick Mahomes,PSA 9,395.09
+2025-06-02,Patrick Mahomes,PSA 8,626.06
+2025-06-02,Patrick Mahomes,Raw,742.8
+2025-06-01,Wemby,PSA 10,432.33
+2025-06-01,Wemby,PSA 9,995.53
+2025-06-01,Wemby,PSA 8,119.51
+2025-06-01,Wemby,Raw,967.02
+2025-06-01,LeBron James,PSA 10,572.21
+2025-06-01,LeBron James,PSA 9,154.87
+2025-06-01,LeBron James,PSA 8,704.6
+2025-06-01,LeBron James,Raw,519.47
+2025-06-01,Shohei Ohtani,PSA 10,731.61
+2025-06-01,Shohei Ohtani,PSA 9,679.43
+2025-06-01,Shohei Ohtani,PSA 8,751.0
+2025-06-01,Shohei Ohtani,Raw,109.85
+2025-06-01,Connor Bedard,PSA 10,275.84
+2025-06-01,Connor Bedard,PSA 9,256.98
+2025-06-01,Connor Bedard,PSA 8,153.94
+2025-06-01,Connor Bedard,Raw,562.31
+2025-06-01,Patrick Mahomes,PSA 10,259.15
+2025-06-01,Patrick Mahomes,PSA 9,916.58
+2025-06-01,Patrick Mahomes,PSA 8,661.87
+2025-06-01,Patrick Mahomes,Raw,877.42
+2025-05-31,Wemby,PSA 10,757.41
+2025-05-31,Wemby,PSA 9,629.24
+2025-05-31,Wemby,PSA 8,159.34
+2025-05-31,Wemby,Raw,178.98
+2025-05-31,LeBron James,PSA 10,261.36
+2025-05-31,LeBron James,PSA 9,448.75
+2025-05-31,LeBron James,PSA 8,848.86
+2025-05-31,LeBron James,Raw,633.81
+2025-05-31,Shohei Ohtani,PSA 10,779.11
+2025-05-31,Shohei Ohtani,PSA 9,572.16
+2025-05-31,Shohei Ohtani,PSA 8,566.2
+2025-05-31,Shohei Ohtani,Raw,702.02
+2025-05-31,Connor Bedard,PSA 10,356.4
+2025-05-31,Connor Bedard,PSA 9,260.2
+2025-05-31,Connor Bedard,PSA 8,76.32
+2025-05-31,Connor Bedard,Raw,646.91
+2025-05-31,Patrick Mahomes,PSA 10,158.16
+2025-05-31,Patrick Mahomes,PSA 9,149.59
+2025-05-31,Patrick Mahomes,PSA 8,507.53
+2025-05-31,Patrick Mahomes,Raw,203.78
+2025-05-30,Wemby,PSA 10,361.98
+2025-05-30,Wemby,PSA 9,30.63
+2025-05-30,Wemby,PSA 8,845.94
+2025-05-30,Wemby,Raw,563.6
+2025-05-30,LeBron James,PSA 10,530.76
+2025-05-30,LeBron James,PSA 9,828.52
+2025-05-30,LeBron James,PSA 8,367.73
+2025-05-30,LeBron James,Raw,867.3
+2025-05-30,Shohei Ohtani,PSA 10,195.6
+2025-05-30,Shohei Ohtani,PSA 9,426.05
+2025-05-30,Shohei Ohtani,PSA 8,381.64
+2025-05-30,Shohei Ohtani,Raw,432.99
+2025-05-30,Connor Bedard,PSA 10,574.62
+2025-05-30,Connor Bedard,PSA 9,556.14
+2025-05-30,Connor Bedard,PSA 8,835.71
+2025-05-30,Connor Bedard,Raw,238.21
+2025-05-30,Patrick Mahomes,PSA 10,823.64
+2025-05-30,Patrick Mahomes,PSA 9,340.07
+2025-05-30,Patrick Mahomes,PSA 8,463.32
+2025-05-30,Patrick Mahomes,Raw,124.25
